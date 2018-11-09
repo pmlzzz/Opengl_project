@@ -1,0 +1,20 @@
+﻿  Raycast.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  InitShader.cpp
+  imgui_impl_glut.cpp
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(186): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(188): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(197): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(199): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(212): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(214): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(224): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\purdue master\cgt521\lab4\include\imgui\imgui_impl_glut.cpp(226): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  正在生成代码...
+imgui.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  Raycast.vcxproj -> D:\purdue master\CGT521\lab4\Debug\Raycast.exe
+  Raycast.vcxproj -> D:\purdue master\CGT521\lab4\Debug\Raycast.pdb (Full PDB)

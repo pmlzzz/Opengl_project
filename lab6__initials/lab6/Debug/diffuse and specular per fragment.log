@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\zz\desktop\cgt520\lab6_zhao （zheng）_initials\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zz\desktop\cgt520\lab6_zhao （zheng）_initials\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zz\desktop\cgt520\lab6_zhao （zheng）_initials\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  diffuse and specular per fragment.vcxproj -> C:\Users\zz\Desktop\CGT520\lab6_Zhao （Zheng）_initials\lab6\Debug\diffuse and specular per fragment.exe
+  diffuse and specular per fragment.vcxproj -> Debug\diffuse and specular per fragment.pdb (Full PDB)

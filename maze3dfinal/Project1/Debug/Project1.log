@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CppWinForm1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LoadTexture.cpp
+d:\purdue master\cgt521\521final\project1\include\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LoadMesh.cpp
+  InitShader.cpp
+  imgui_impl_glut.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Imgui demo.cpp
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(176): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(515): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(516): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(529): warning C4305: “+=”: 从“double”到“float”截断
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(533): warning C4305: “-=”: 从“double”到“float”截断
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(563): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(564): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(565): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\purdue master\cgt521\521final\project1\imgui demo.cpp(566): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  Project1.vcxproj -> D:\purdue master\CGT521\521final\Debug\Project1.exe
+  Project1.vcxproj -> D:\purdue master\CGT521\521final\Debug\Project1.pdb (Partial PDB)

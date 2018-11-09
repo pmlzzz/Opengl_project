@@ -1,0 +1,7 @@
+﻿  shapes.cpp
+  sample.cpp
+  vect3d.cpp
+  正在生成代码...
+vect3d.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  sample.vcxproj -> D:\Purdue master\CGT520\lab2_Zhao （Zheng）_initials\Debug\sample.exe
+  sample.vcxproj -> Debug\sample.pdb (Full PDB)

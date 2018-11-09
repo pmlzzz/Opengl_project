@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LinearLighting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  shapes.cpp
+  LoadMesh.cpp
+  maze.cpp
+d:\purdue master\cgt520\maze 3\maze.cpp(229): error C2374: “M4”: 重定义；多次初始化
+  d:\purdue master\cgt520\maze 3\maze.cpp(221): note: 参见“M4”的声明
+d:\purdue master\cgt520\maze 3\maze.cpp(233): error C2088: “*”: 对于 struct 非法
+d:\purdue master\cgt520\maze 3\maze.cpp(304): error C2198: “PFNGLUNIFORMMATRIX4FVPROC”: 用于调用的参数太少
+  InitShader.cpp
+  正在生成代码...

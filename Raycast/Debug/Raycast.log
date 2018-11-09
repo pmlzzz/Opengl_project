@@ -1,0 +1,243 @@
+﻿  imgui_impl_glut.cpp
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(138): error C2065: “GLUT_DOWN”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(144): error C2065: “GLUT_UP”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(151): error C2065: “GLUT_DOWN”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(156): error C2065: “GLUT_DOWN”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(185): error C3861: “glutGetModifiers”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(186): error C2065: “GLUT_ACTIVE_CTRL”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(187): error C2065: “GLUT_ACTIVE_SHIFT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(188): error C2065: “GLUT_ACTIVE_ALT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(196): error C3861: “glutGetModifiers”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(197): error C2065: “GLUT_ACTIVE_CTRL”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(198): error C2065: “GLUT_ACTIVE_SHIFT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(199): error C2065: “GLUT_ACTIVE_ALT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(211): error C3861: “glutGetModifiers”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(212): error C2065: “GLUT_ACTIVE_CTRL”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(213): error C2065: “GLUT_ACTIVE_SHIFT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(214): error C2065: “GLUT_ACTIVE_ALT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(223): error C3861: “glutGetModifiers”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(224): error C2065: “GLUT_ACTIVE_CTRL”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(225): error C2065: “GLUT_ACTIVE_SHIFT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(226): error C2065: “GLUT_ACTIVE_ALT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(363): error C2065: “GLUT_KEY_LEFT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(364): error C2065: “GLUT_KEY_RIGHT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(365): error C2065: “GLUT_KEY_UP”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(366): error C2065: “GLUT_KEY_DOWN”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(367): error C2065: “GLUT_KEY_PAGE_UP”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(368): error C2065: “GLUT_KEY_PAGE_DOWN”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(369): error C2065: “GLUT_KEY_HOME”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(370): error C2065: “GLUT_KEY_END”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(371): error C2065: “GLUT_KEY_DELETE”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(415): error C2065: “GLUT_WINDOW_WIDTH”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(415): error C3861: “glutGet”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(416): error C2065: “GLUT_WINDOW_HEIGHT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(416): error C3861: “glutGet”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(417): error C2065: “GLUT_WINDOW_WIDTH”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(417): error C3861: “glutGet”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(418): error C2065: “GLUT_WINDOW_HEIGHT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(418): error C3861: “glutGet”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(425): error C2065: “GLUT_ELAPSED_TIME”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(425): error C3861: “glutGet”: 找不到标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(457): error C2065: “GLUT_CURSOR_NONE”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(457): error C2065: “GLUT_CURSOR_INHERIT”: 未声明的标识符
+c:\users\zz\desktop\raycast\include\imgui\imgui_impl_glut.cpp(457): error C3861: “glutSetCursor”: 找不到标识符
+  Raycast.cpp
+c:\users\zz\desktop\raycast\raycast.cpp(278): error C3861: “glutSwapBuffers”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(293): error C3861: “InitShader”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(297): error C3861: “InitShader”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(414): error C2065: “GLUT_ELAPSED_TIME”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(414): error C3861: “glutGet”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(434): error C3861: “glutPostRedisplay”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(439): error C3861: “glutDestroyWindow”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(483): error C2065: “GLUT_KEY_F1”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(488): error C2065: “GLUT_KEY_UP”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(492): error C2065: “GLUT_KEY_DOWN”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(496): error C2065: “GLUT_KEY_LEFT”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(500): error C2065: “GLUT_KEY_RIGHT”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(511): error C2065: “GLUT_DOUBLE”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(511): error C2065: “GLUT_RGBA”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(511): error C3861: “glutInitDisplayMode”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(515): error C2065: “GLUT_MULTISAMPLE”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(515): error C3861: “glutSetOption”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(516): error C2065: “GLUT_DOUBLE”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(516): error C2065: “GLUT_RGBA”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(516): error C2065: “GLUT_MULTISAMPLE”: 未声明的标识符
+c:\users\zz\desktop\raycast\raycast.cpp(516): error C3861: “glutInitDisplayMode”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(519): error C3861: “glutInitWindowPosition”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(520): error C3861: “glutInitWindowSize”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(521): error C3861: “glutCreateWindow”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(551): error C3861: “glutDisplayFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(552): error C3861: “glutIdleFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(553): error C3861: “glutKeyboardFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(554): error C3861: “glutSpecialFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(556): error C3861: “glutKeyboardUpFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(557): error C3861: “glutSpecialUpFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(558): error C3861: “glutMouseFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(559): error C3861: “glutMotionFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(560): error C3861: “glutPassiveMotionFunc”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(565): error C3861: “glutInit”: 找不到标识符
+c:\users\zz\desktop\raycast\raycast.cpp(571): error C3861: “glutMainLoop”: 找不到标识符
+  InitShader.cpp
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): error C2146: 语法错误: 缺少“;”(在标识符“glutMainLoopEvent”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(131): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(131): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(131): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(131): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(131): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(131): error C2146: 语法错误: 缺少“;”(在标识符“glutLeaveMainLoop”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(132): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(132): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(132): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(132): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(132): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(132): error C2146: 语法错误: 缺少“;”(在标识符“glutExit”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(137): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(137): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(137): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(137): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(137): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(137): error C2146: 语法错误: 缺少“;”(在标识符“glutFullScreenToggle”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(138): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(138): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(138): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(138): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(138): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(138): error C2146: 语法错误: 缺少“;”(在标识符“glutLeaveFullScreen”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(143): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(143): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(143): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(143): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(143): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(143): error C2146: 语法错误: 缺少“;”(在标识符“glutSetMenuFont”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(148): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(148): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(148): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(148): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(148): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(148): error C2146: 语法错误: 缺少“;”(在标识符“glutMouseWheelFunc”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(149): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(149): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(149): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(149): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(149): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(149): error C2146: 语法错误: 缺少“;”(在标识符“glutPositionFunc”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(150): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(150): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(150): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(150): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(150): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(150): error C2146: 语法错误: 缺少“;”(在标识符“glutCloseFunc”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(151): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(151): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(151): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(151): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(151): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(151): error C2146: 语法错误: 缺少“;”(在标识符“glutWMCloseFunc”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(153): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(153): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(153): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(153): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(153): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(153): error C2146: 语法错误: 缺少“;”(在标识符“glutMenuDestroyFunc”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(158): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(158): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(158): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(158): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(158): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(158): error C2146: 语法错误: 缺少“;”(在标识符“glutSetOption”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(159): error C2144: 语法错误:“int”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(159): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(159): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(159): error C2040: “FGAPIENTRY”:“int *”与“int”的间接寻址级别不同
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(159): error C2146: 语法错误: 缺少“;”(在标识符“glutGetModeValues”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(161): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(161): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(161): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(161): error C2040: “FGAPIENTRY”:“void *”与“int”的间接寻址级别不同
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(161): error C2146: 语法错误: 缺少“;”(在标识符“glutGetWindowData”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(162): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(162): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(162): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(162): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(162): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(162): error C2146: 语法错误: 缺少“;”(在标识符“glutSetWindowData”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(163): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(163): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(163): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(163): error C2040: “FGAPIENTRY”:“void *”与“int”的间接寻址级别不同
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(163): error C2146: 语法错误: 缺少“;”(在标识符“glutGetMenuData”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(164): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(164): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(164): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(164): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(164): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(164): error C2146: 语法错误: 缺少“;”(在标识符“glutSetMenuData”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(169): error C2144: 语法错误:“int”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(169): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(169): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(169): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(169): error C2146: 语法错误: 缺少“;”(在标识符“glutBitmapHeight”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(170): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(170): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(170): error C2146: 语法错误: 缺少“;”(在标识符“GLfloat”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(171): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(171): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(171): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(171): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(171): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(171): error C2146: 语法错误: 缺少“;”(在标识符“glutBitmapString”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(172): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(172): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(172): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(172): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(172): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(172): error C2146: 语法错误: 缺少“;”(在标识符“glutStrokeString”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): error C2086: “int FGAPI”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPI”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): error C2182: “FGAPIENTRY”: 非法使用“void”类型
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): error C2086: “int FGAPIENTRY”: 重定义
+  c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(130): note: 参见“FGAPIENTRY”的声明
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): error C2146: 语法错误: 缺少“;”(在标识符“glutWireRhombicDodecahedron”的前面)
+c:\users\zz\desktop\raycast\include\gl\freeglut_ext.h(177): fatal error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...

@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CppWinForm1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui_impl_glut.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  LoadTexture.cpp
+  LoadMesh.cpp
+  InitShader.cpp
+  Imgui demo.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\zz\Desktop\CGT521\hw2\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\zz\Desktop\CGT521\hw2\Debug\Project1.pdb (Partial PDB)

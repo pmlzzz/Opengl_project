@@ -1,0 +1,16 @@
+﻿  shapes.cpp
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  shaders.cpp
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\purdue master\cgt520\lab5_zhao （zheng）_initials\cgt520-07-transforms programs\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  projections.vcxproj -> D:\purdue master\CGT520\lab5_Zhao （Zheng）_initials\CGT520-07-Transforms programs\04 Projections\Debug\moving boxes.exe
+  projections.vcxproj -> Debug\moving boxes.pdb (Full PDB)
